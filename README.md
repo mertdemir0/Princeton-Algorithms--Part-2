@@ -2,7 +2,7 @@
 
 # Coursera - Algorithms, Part II by Princeton University Assignment Solutions Final Grade %93.60
 
-![Final Grade and Assessment Scores]('https://github.com/mertdemir0/Princeton-Algoriths--Part-2/blob/main/grades.png')
+![Final Grade and Assessment Scores]('https://github.com/mertdemir0/Princeton-Algorithms--Part-2/blob/main/grades.png')
 
 Code for programming assignments in Algorithms part 2 by Princeton.  
 All the material for the course is free and available online at [Coursera](https://www.coursera.org/learn/algorithms-part2/). It is best done as a progression to Algorithms Part 1 on [Coursera](https://www.coursera.org/learn/algorithms-part2/home/welcome)   
